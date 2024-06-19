@@ -4,6 +4,7 @@
     cuisines,
     area,
     lastMileTravelString,
+    cloudinaryImageId,
     costForTwoString,
     avgRating,}) => {
     return (
